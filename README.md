@@ -34,7 +34,7 @@ A página foi desenhada no Figma seguindo uma ordem lógica de conversão:
 ---
 
 ## 📸 Visualização do Projeto
-![Visualização da Landing Page]([./images/wireframe_preview.png](https://drive.google.com/file/d/1en2E0k_6C9kQY6IHRxjdilMqgk2wv2vx/view?usp=drive_link))
+![Visualização da Landing Page](https://drive.google.com/file/d/1en2E0k_6C9kQY6IHRxjdilMqgk2wv2vx/view?usp=sharing)
 
 ---
-**Desenvolvido por:** [Deborah Dangui]
+**Desenvolvido por:** Deborah Dangui
