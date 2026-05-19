@@ -34,7 +34,7 @@ A página foi desenhada no Figma seguindo uma ordem lógica de conversão:
 ---
 
 ## 📸 Visualização do Projeto
-![Visualização da Landing Page](https://drive.google.com/file/d/1_QbL5xie-fDOWzC0U6dthpga40qzDILH/view?usp=sharing)
+![Visualização da Landing Page]("C:\Users\dangui\Downloads\ReceitasSaudaveis.png")
 
 ---
 **Desenvolvido por:** Deborah Dangui
